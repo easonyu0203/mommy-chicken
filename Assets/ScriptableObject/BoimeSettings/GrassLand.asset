@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81d553544d6242cf862a62fcba3db644, type: 3}
+  m_Name: GrassLand
+  m_EditorClassIdentifier: 
+  FloorTiles:
+  - {fileID: 8310636555754338522, guid: b4c7710f4144ddf45879bfd479d76d59, type: 3}
+  - {fileID: 1131801921354054197, guid: 7d28104da5d3fdb4b89ca1e95cef39e6, type: 3}
+  - {fileID: 1383829202834329060, guid: 225b73bc333ee654fb439b211d13b2d8, type: 3}
+  - {fileID: 2210757913071051156, guid: 7b4451ad6990fcf4197389ef54413188, type: 3}
+  - {fileID: 905533945561788041, guid: 3ced89292941eb244b963f55e1631e79, type: 3}
+  - {fileID: 4189596639912015612, guid: c209561d2e2f2b5409f4f2a6f4b5b855, type: 3}
+  - {fileID: 7816054635969236871, guid: f1fe33cce7f27734fa2dcc1c5f957461, type: 3}
